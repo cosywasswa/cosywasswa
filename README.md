@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full-stack@Microverse**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cosywasswa/My-Portfolio-Desktop](https://github.com/cosywasswa/My-Portfolio-Desktop)
+- 👨‍💻 All of my projects are available at [https://github.com/cosywasswa]
 
 - 💬 Ask me about **HTML,CSS,BOOTSTRAP,.js**
 
