@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosywasswa&label=Profile%20views&color=0e75b6&style=flat" alt="cosywasswa" /> </p>
 
-- 🌱 I’m currently learning **Full-stack development @Microverse**
-
-- 👨‍💻 All of my projects are available at [https://github.com/cosywasswa]
+- 🌱 I’m currently learning **Full-stack development @Microverse*
 
 - 💬 Ask me about **JavaScript, React, BOOTSTRAP**
 
 - 📫 How to reach me **cosywas@gmail.com**
 
-- ⚡ Fun fact **I think am friendly**
+- ⚡ Fun fact **I'm a Soft Rock fun **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
