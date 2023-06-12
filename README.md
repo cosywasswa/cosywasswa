@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosywasswa&label=Profile%20views&color=0e75b6&style=flat" alt="cosywasswa" /> </p>
 
-- 🌱 I’m currently learning **Full-stack software development* at Microverse and my goal is making a positive impact to the community through coding.
+- 🌱 I’m currently learning Full-stack software development at Microverse and my goal is making a positive impact to the community through coding.
 
 - 💬 Ask me about **JavaScript, React, Ruby, Bootstrap**
 
