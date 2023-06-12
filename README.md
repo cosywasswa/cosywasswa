@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full-stack software development* at Microverse and my goal is making a positive impact to the community through coding.
 
-- 💬 Ask me about **JavaScript, React, BOOTSTRAP**
+- 💬 Ask me about **JavaScript, React, Ruby, Bootstrap**
 
 - 📫 How to reach me **cosywas@gmail.com**
 
