@@ -4,11 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosywasswa&label=Profile%20views&color=0e75b6&style=flat" alt="cosywasswa" /> </p>
 
-- 🌱 I’m currently learning Full-stack software development at Microverse and my goal is making a positive impact to the community through coding.
+- 🌱 I’m a Full-stack software developer graduate at Microverse and my goal is to make a positive impact on the community through coding.
 
-- 💬 Ask me about **JavaScript, React, Ruby, Bootstrap**
+- 💬 Ask me about **JavaScript, React, Redux, Ruby, Rails**
 
-- 📫 How to reach me **cosywas@gmail.com**
+- 📫 Email me **cosywas@gmail.com**
+
+- 💻 View my Portfolio: https://cosmas-portfolio.onrender.com/
+
+- 📞 Phone: +256775487125
 
 - ⚡ Fun fact **I'm a Soft Rock fun **
 
