@@ -10,9 +10,9 @@
 
 - 📫 Email me **cosywas@gmail.com**
 
-- 💻 View my Portfolio: https://cosmas-portfolio.onrender.com/
-
 - 📞 Phone: +256775487125
+
+- 💻 View my Portfolio: https://cosmas-portfolio.onrender.com/
 
 - ⚡ Fun fact **I'm a Soft Rock fun **
 
