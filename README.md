@@ -5,7 +5,7 @@
 
 - 🌱 I’m a Full-stack software developer graduate at Microverse and my goal is to make a positive impact on the community through coding.
 
-- 💬 Ask me about **JavaScript, React, Redux, Ruby, Rails**
+- 💬 Ask me about **JavaScript, React, Redux, Ruby, Rails, Nodejs, Expressjs, Mongodb**
 
 - 📫 Email me **cosywas@gmail.com**
 
