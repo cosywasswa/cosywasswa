@@ -11,9 +11,9 @@
 
 - 📞 Phone: +256775487125
 
-- 💻 View my Portfolio: https://cosmas-portfolio.onrender.com/
+- 💻 View my Portfolio: https://cwasswa.cartpairs.com/
 
-- ⚡ Fun fact **I'm a Soft Rock fun **
+- ⚡ Fun fact **I'm a Soft Rock fan **
 
 <h3 align="centre">Connect with me:</h3>
 <p align="left">
