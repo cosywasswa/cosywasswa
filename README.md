@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Cosmas Wasswa</h1>
-<h3 align="center">A passionate Full-stack developer from Uganda</h3
+<p align="center">
+  <img src="./banner.png" alt="GitHub Banner" width="100%">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosywasswa&label=Profile%20views&color=0e75b6&style=flat" alt="cosywasswa" /> </p>
 
-- 🌱 I’m a Full-stack software developer graduate at Microverse, and my goal is to make a positive impact on the community through coding.
+- 🌱 I’m a Full-stack software developer graduate at Microverse, and my goal is to make a positive impact in the community through coding.
 
 - 💬 Ask me about **JavaScript, React, Redux, Rails, Node.js, Express.js, MongoDB **
 
