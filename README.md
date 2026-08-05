@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Cosmas Wasswa</h1>
 <p align="center">
   <img src="./banner.png" alt="GitHub Banner" width="100%">
 </p>
