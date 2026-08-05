@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosywasswa&label=Profile%20views&color=0e75b6&style=flat" alt="cosywasswa" /> </p>
 
-- 🌱 I’m a Full-stack software developer graduate at Microverse, and my goal is to make a positive impact on the community through coding.
+- 🌱 I’m a Full-stack software developer graduate at Microverse, and my goal is to make a positive impact in the community through coding.
 
 - 💬 Ask me about **JavaScript, React, Redux, Rails, Node.js, Express.js, MongoDB **
 
